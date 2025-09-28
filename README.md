@@ -136,7 +136,7 @@ p.note { display: none; }
 </head>
 
 <body>
-    <p><a href="https://torokoid.github.io/20250927_maechan/">Happy Birthday</a>><a href="https://torokoid.github.io/20250927__maechan/">Polis's Home></a>Polis's Home_2</p>
+<h2><p><a href="https://torokoid.github.io/20250927_maechan/">Happy Birthday</a>><a href="https://torokoid.github.io/20250927__maechan/">Polis's Home></a>Polis's Home_2</p></h2>
 
 <!--
 <p class="note">
