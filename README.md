@@ -185,11 +185,9 @@ p.note { display: none; }
 <a href="20250928_011.JPG" target="_blank"><img src="20250928_011.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250928_012.JPG" target="_blank"><img src="20250928_012.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<!--
 <div class="youtube-wrapper">
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6416.804021783798!2d99.89101946606606!3d19.97068545708697!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30d700a4eed0c2df%3A0xafb8e6de9cf1d4ed!2z44OB44Kn44Oz44Op44O844KkIOOCueOCpuOCo-ODg-ODiOWwhOaSg-WgtA!5e0!3m2!1sja!2sth!4v1759036289173!5m2!1sja!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
--->
     
 <a href="20250928_013.JPG" target="_blank"><img src="20250928_013.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250928_014.JPG" target="_blank"><img src="20250928_014.JPG" alt="サンプル画像" class="responsive-media"></a>
