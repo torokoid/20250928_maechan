@@ -73,7 +73,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20250928_maechan/20250928_043.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/20250928_maechan/20250928_001.png) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -180,6 +180,7 @@ p.note { display: none; }
 <a href="20250928_007.JPG" target="_blank"><img src="20250928_007.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250928_008.JPG" target="_blank"><img src="20250928_008.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250928_009.JPG" target="_blank"><img src="20250928_009.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250928_001.png" target="_blank"><img src="20250928_001.png" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250928_010.JPG" target="_blank"><img src="20250928_010.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250928_011.JPG" target="_blank"><img src="20250928_011.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250928_012.JPG" target="_blank"><img src="20250928_012.JPG" alt="サンプル画像" class="responsive-media"></a>
