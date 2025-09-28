@@ -224,7 +224,7 @@ p.note { display: none; }
 <a href="20250928_043.JPG" target="_blank"><img src="20250928_043.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <div class="youtube-wrapper">
-<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d12822.813778454434!2d99.86096940126517!3d20.102583459447555!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjDCsDA1JzU4LjkiTiA5OcKwNTEnMzguOSJF!5e0!3m2!1sja!2sth!4v1759031881068!5m2!1sja!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2059.5121777006225!2d99.84408979235266!3d19.921656902254718!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30d706f091296379%3A0x3dfdfaff554973b3!2z44OB44O844Km44Kj44OD44OIIOOCv-ODnuODgOODvCDjgqvjg5Xjgqc!5e0!3m2!1sja!2sth!4v1759034450287!5m2!1sja!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
     
 <a href="20250928_044.JPG" target="_blank"><img src="20250928_044.JPG" alt="サンプル画像" class="responsive-media"></a>
@@ -247,6 +247,11 @@ p.note { display: none; }
 <a href="20250928_061.JPG" target="_blank"><img src="20250928_061.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250928_062.JPG" target="_blank"><img src="20250928_062.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250928_063.JPG" target="_blank"><img src="20250928_063.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<div class="youtube-wrapper">
+<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d12822.813778454434!2d99.86096940126517!3d20.102583459447555!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjDCsDA1JzU4LjkiTiA5OcKwNTEnMzguOSJF!5e0!3m2!1sja!2sth!4v1759031881068!5m2!1sja!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+
 <a href="20250928_064.JPG" target="_blank"><img src="20250928_064.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250928_065.JPG" target="_blank"><img src="20250928_065.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250928_066.JPG" target="_blank"><img src="20250928_066.JPG" alt="サンプル画像" class="responsive-media"></a>
